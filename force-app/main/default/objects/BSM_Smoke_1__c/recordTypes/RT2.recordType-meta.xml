@@ -4,4 +4,15 @@
     <active>true</active>
     <description>Second RT</description>
     <label>RT2</label>
+    <picklistValues>
+        <picklist>Type__c</picklist>
+        <values>
+            <fullName>Large</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Small</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
 </RecordType>
