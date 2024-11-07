@@ -4,4 +4,15 @@
     <active>true</active>
     <description>First RT</description>
     <label>RT1</label>
+    <picklistValues>
+        <picklist>Type__c</picklist>
+        <values>
+            <fullName>Large</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Medium</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
 </RecordType>
