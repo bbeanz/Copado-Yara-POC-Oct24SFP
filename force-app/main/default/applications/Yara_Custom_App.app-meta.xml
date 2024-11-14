@@ -10,14 +10,15 @@
     <formFactors>Small</formFactors>
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
-    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavPersonalizationDisabled>true</isNavPersonalizationDisabled>
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
     <label>Yara Custom App</label>
     <navType>Standard</navType>
+    <setupExperience>all</setupExperience>
     <tabs>standard-Account</tabs>
     <tabs>standard-Asset</tabs>
-    <tabs>standard-Event</tabs>
+    <tabs>standard-Award</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Yara_Custom_App_UtilityBar</utilityBar>
 </CustomApplication>
