@@ -11,6 +11,10 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>Ordinary</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Small</fullName>
             <default>false</default>
         </values>
