@@ -45,7 +45,7 @@
         <getFirstRecordOnly>false</getFirstRecordOnly>
         <object>Contact</object>
         <sortField>LastActivityDate</sortField>
-        <sortOrder>Desc</sortOrder>
+        <sortOrder>Asc</sortOrder>
         <storeOutputAutomatically>true</storeOutputAutomatically>
     </recordLookups>
     <screens>
@@ -128,5 +128,5 @@
             <targetReference>Screen1</targetReference>
         </connector>
     </start>
-    <status>Active</status>
+    <status>Draft</status>
 </Flow>
