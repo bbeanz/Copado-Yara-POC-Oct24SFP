@@ -14,6 +14,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>BSM_Smoke_1__c.Smoke_4_Dev__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>BSM_Smoke_1__c.Type__c</field>
         <readable>true</readable>
     </fieldPermissions>
