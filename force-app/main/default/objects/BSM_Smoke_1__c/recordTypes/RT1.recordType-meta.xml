@@ -14,5 +14,13 @@
             <fullName>Medium</fullName>
             <default>false</default>
         </values>
+        <values>
+            <fullName>Ordinary</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Special</fullName>
+            <default>false</default>
+        </values>
     </picklistValues>
 </RecordType>
