@@ -7,6 +7,11 @@
         <field>BSM_Smoke_1__c.Type__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Contact.Smoke_2_Dollar__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>BSM_Smoke_1__c-BSM Smoke 1 Layout</layout>
     </layoutAssignments>
