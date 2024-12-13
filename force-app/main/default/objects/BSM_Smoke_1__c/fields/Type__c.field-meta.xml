@@ -26,6 +26,16 @@
                 <default>false</default>
                 <label>Small</label>
             </value>
+            <value>
+                <fullName>Special</fullName>
+                <default>false</default>
+                <label>Special</label>
+            </value>
+            <value>
+                <fullName>Ordinary</fullName>
+                <default>false</default>
+                <label>Ordinary</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
